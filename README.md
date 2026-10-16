@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Eqaan Zainab 👋 
 
-<!--
-**eqaansbit-R/eqaansbit-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Expert & Humanitarian Robotics Innovator 🇵🇰
+"I am Eqaan Zainab, an AI Expert and Humanitarian Robotics Innovator from Pakistan. Certified in AI by the University of Helsinki and pursuing a Robotics Diploma at ScienceX, I specialized in building intelligent embedded systems. Currently advancing my core mechanics research through Northwestern University, my mission is to design scalable, decentralized technologies that bridge societal gaps and empower underrepresented communities globally."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Core Domains
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://shields.io" alt="Python" />
+  <!-- Embedded Systems -->
+  <img src="https://shields.io" alt="Embedded Systems" />
+  <!-- Artificial Intelligence -->
+  <img src="https://shields.io" alt="AI" />
+  <!-- Robotics -->
+  <img src="https://shields.io" alt="Robotics" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Eqaan's GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
