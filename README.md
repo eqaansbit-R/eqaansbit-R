@@ -15,7 +15,7 @@ AI Expert and Humanitarian Robotics Innovator from Pakistan. Certified in AI by 
 
 --- 
 ### ⚡ Startup Mission
-"Developing modular, low-cost autonomous solutions engineered specifically to empower developing economic zones."
+Developing modular, low-cost autonomous solutions engineered specifically to empower developing economic zones.
 
 
 ### 🤝 Collaborations & Contact
