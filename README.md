@@ -1,28 +1,19 @@
 # Hi there, I'm Eqaan Zainab 👋 
 
 ### AI Expert & Humanitarian Robotics Innovator 🇵🇰
-"I am Eqaan Zainab, an AI Expert and Humanitarian Robotics Innovator from Pakistan. Certified in AI by the University of Helsinki and pursuing a Robotics Diploma at ScienceX, I specialized in building intelligent embedded systems. Currently advancing my core mechanics research through Northwestern University, my mission is to design scalable, decentralized technologies that bridge societal gaps and empower underrepresented communities globally."
+I am Eqaan Zainab, an AI Expert and Humanitarian Robotics Innovator from Pakistan. Certified in AI by the University of Helsinki and pursuing a Robotics Diploma at ScienceX, I specialized in building intelligent embedded systems. Currently advancing my core mechanics research through Northwestern University, my mission is to design scalable, decentralized technologies that bridge societal gaps and empower underrepresented communities globally.
 
 ---
 
 ### 🛠️ Tech Stack & Core Domains
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python" />
-  <!-- Embedded Systems -->
-  <img src="https://shields.io" alt="Embedded Systems" />
-  <!-- Artificial Intelligence -->
-  <img src="https://shields.io" alt="AI" />
-  <!-- Robotics -->
-  <img src="https://shields.io" alt="Robotics" />
-</p>
+- 🐍 **Programming:** Python
+- 🧠 **Core Domain:** Artificial Intelligence / Machine Learning
+- ⚙️ **Hardware:** Embedded Systems & Core Mechanics
+- 🤖 **Innovation:** Humanitarian Robotics & Autonomous Systems
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
+*(Once you start adding projects, your activity graphs will automatically load here!)*
 
-<p align="left">
-  <img src="https://vercel.app" alt="Eqaan's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
